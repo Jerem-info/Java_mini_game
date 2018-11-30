@@ -1,0 +1,23 @@
+g1.display();
+g1.move_up(Xplayer, Yplayer);
+g1.display();
+
+
+
+package fr.jerem.mini_game;
+
+
+public abstract class Opponent {	
+	
+	public abstract void type ();
+	
+	public abstract void health();
+	
+	public abstract void attack ();
+	
+	public abstract void damage(double damage);
+		
+	public abstract void xposition();
+	
+	public abstract void yposition();
+}

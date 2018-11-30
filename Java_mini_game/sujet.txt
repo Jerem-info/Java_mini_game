@@ -1,0 +1,24 @@
+plateau de jeu : monstre lunaire :
+
+plateau jeu : grille 20x20
+En tour par tour
+
+Entrée/sortie
+
+Pour sortir : ramasser des objets  : 1 fleur, 1 pot d'eau , 1 diamant
+
+Obstacles fixes : délimite le chemin par ou passer
+
+Monstres :
+ - Monstre a l'epee : Attaque cac 1 case
+ - Monstre météorite boomerang : Attaque 5 cases va et vient (50% chance de tuer le monstre quand il lance boomerang)
+ - Monstre Archer : Attaque à 3 cases (consomme ses fleches) il disparait si plus de fleches
+ - Monstre bloquant : Suivent toujours le même chemin (Déplacement d'une case a la fois)
+
+Le joueur :
+ - 3 vies : Pour chaque vie : Niveau de protection de 4 ?
+ - déplacement : a configurer : si en bonne santé : se déplace mieux ?
+ 
+ 
+ 
+
